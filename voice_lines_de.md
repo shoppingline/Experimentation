@@ -1,7 +1,7 @@
 # Voice Lines DE
 
 1. Introduction
-2. <<INTERUPTS POSSIBLE AFTER THIS POINT>>
+2. INTERRUPTS POSSIBLE AFTER THIS POINT`
 3. How it Works
 4. LOOP:
   1. Waiting Lines
